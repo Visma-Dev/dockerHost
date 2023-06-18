@@ -9,5 +9,8 @@
 </head>
 <body>
 <h1>Title</h1>
+<?php
+echo "PHP is working now!"
+?>
 </body>
 </html>
